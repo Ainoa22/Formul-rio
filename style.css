@@ -73,6 +73,9 @@ fieldset .grupo .campo{
     display: inline-block;
 }
 
+.botao, select{
+    cursor: pointer;
+}
 
 
 
